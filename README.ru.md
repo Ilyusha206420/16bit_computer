@@ -2,4 +2,4 @@
   <a href="README.md">us English</a> | <a href="README.ru.md">ru Русский</a>
 </div>
 
-# My 16 Bit computer
+# Моя 16-ти битная ЭВМ
